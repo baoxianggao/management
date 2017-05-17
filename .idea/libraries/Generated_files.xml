@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/geely/src/utils/jquery.js" />
+        <item url="file://$PROJECT_DIR$/dist/geely/src/utils/jquery.funny.js" />
+        <item url="file://$PROJECT_DIR$/dist/geely/src/utils/jquery.slideSwitch.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/geely/src/utils/jquery.js" />
+      <root url="file://$PROJECT_DIR$/dist/geely/src/utils/jquery.funny.js" />
+      <root url="file://$PROJECT_DIR$/dist/geely/src/utils/jquery.slideSwitch.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
